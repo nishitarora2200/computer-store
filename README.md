@@ -1,7 +1,3 @@
-Here is a **simple README.md** explaining how to run your TypeScript computer store checkout project:
-
-***
-
 # Computer Store Checkout System
 
 This is a TypeScript implementation of a flexible checkout system for a computer store.  
