@@ -29,5 +29,3 @@ Scan items by SKU, apply pricing deals, and view cart totals.
 - You can modify pricing rules in `pricing-deal.service.ts`.
 
 ***
-
-That’s it—**install, build, test, and play!**.[6][7]
